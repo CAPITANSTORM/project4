@@ -4,6 +4,11 @@ Project 4
 5/11/21
  */
 
+/* I couldn't make the json work on my home pc, I think the files are bugged
+out for my home pc. The format and style of the code is also different due to
+me having my dad help me and he formatted it different to what I had and forgot
+to change it to match the other projects. Sorry for inconvenience.
+ */
 package com.company;
 
 import com.google.gson.Gson;
